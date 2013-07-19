@@ -1,8 +1,8 @@
-## Employee Directory ##
+## Parques e Praças ##
 
 ### Sample Application built with Backbone.js and TopCoat ###
 
-"Backbone Directory" is a simple Employee Directory application built with [Backbone.js](http://backbonejs.org) and [TopCoat] (http://topcoat.io).
+A quick and dirty integration between coenraets' topcoat backbone boilerplate and the Recife CKAN.
 
 Refer to [this blog post](http://coenraets.org) for more information about the application.
 

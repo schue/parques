@@ -1,7 +1,7 @@
 app.routers.AppRouter = Backbone.Router.extend({
 
     routes: {
-        "":                         "home",
+        "":                         "map",
         "employees/:id":            "employeeDetails",
         "employees/:id/reports":    "reports",
         "employees/:id/map":        "map"
